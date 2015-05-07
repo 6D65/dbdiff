@@ -1,0 +1,8 @@
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\bin\Debug\dbdiff.exe.config
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\bin\Debug\dbdiff.exe
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\bin\Debug\dbdiff.pdb
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\bin\Debug\report-extractor.dll
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\bin\Debug\report-extractor.pdb
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\obj\Debug\dbdiff.csprojResolveAssemblyReference.cache
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\obj\Debug\dbdiff.exe
+C:\Users\god\work\personal\sqlremove\sqlremove\dbdiff\dbdiff\obj\Debug\dbdiff.pdb
